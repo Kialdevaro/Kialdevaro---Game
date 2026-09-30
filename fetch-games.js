@@ -1,5 +1,4 @@
 const fs = require('fs');
-const fetch = require('node-fetch'); // Atau gunakan native fetch jika Node.js versi 18+
 
 async function updateGamesJson() {
   console.log("Memulai pengambilan data game dari GameMonetize...");
@@ -8,7 +7,6 @@ async function updateGamesJson() {
   const types = ['html5', 'mobile'];
   let requests = [];
 
-  // Ambil data dari berbagai kombinasi kategori & tipe secara paralel
   categories.forEach(cat => {
     types.forEach(t => {
       const url = `https://rss.gamemonetize.com/rssfeed.php?format=json&category=${cat}&type=${t}&popularity=newest&company=All&amount=All`;
@@ -28,9 +26,8 @@ async function updateGamesJson() {
     }
   });
 
-  // Deduplikasi berdasarkan URL game agar tidak ada data yang kembar
+  // Deduplikasi berdasarkan URL game
   const uniqueMap = new Map();
-
   rawGMList.forEach(game => {
     const title = game.title || game.name || 'Game';
     const url = game.url || game.gameurl || '';
@@ -48,7 +45,6 @@ async function updateGamesJson() {
   const finalGamesList = Array.from(uniqueMap.values());
   console.log(`Total game unik terkumpul: ${finalGamesList.length}`);
 
-  // Simpan ke file games.json
   fs.writeFileSync('games.json', JSON.stringify(finalGamesList, null, 2));
   console.log("File games.json berhasil diperbarui!");
 }
