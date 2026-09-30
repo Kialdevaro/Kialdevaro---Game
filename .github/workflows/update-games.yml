@@ -5,6 +5,10 @@ on:
     - cron: '0 */6 * * *'
   workflow_dispatch:
 
+# Tambahkan izin akses tulis agar bot bisa melakukan push perubahan
+permissions:
+  contents: write
+
 jobs:
   update-data:
     runs-on: ubuntu-latest
