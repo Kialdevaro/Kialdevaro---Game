@@ -2,8 +2,8 @@ name: Update Games Catalog
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # Berjalan otomatis setiap 6 jam sekali
-  workflow_dispatch: # Bisa dijalankan secara manual dari tab Actions di GitHub
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
   update-data:
@@ -17,9 +17,6 @@ jobs:
         with:
           node-version: '18'
 
-      - name: Install Dependencies
-        run: npm install node-fetch
-
       - name: Run Fetch Script
         run: node fetch-games.js
 
@@ -30,4 +27,3 @@ jobs:
           git add games.json
           git commit -m "Auto-update games.json database" || echo "Tidak ada perubahan data"
           git push
-          
