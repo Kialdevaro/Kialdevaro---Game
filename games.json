@@ -1,5 +1,110 @@
 [
   {
+    "title": "Crazy Plinko",
+    "url": "https://html5.gamemonetize.co/1kq6nm65mxkb0v6wxfd00s1r2j638plb/",
+    "icon": "https://img.gamemonetize.com/1kq6nm65mxkb0v6wxfd00s1r2j638plb/512x384.jpg",
+    "genre": "Puzzles",
+    "newest": true
+  },
+  {
+    "title": "Build a Keycap Pyramid",
+    "url": "https://html5.gamemonetize.co/djrwlkwff95gb0ezfz6zrvk8rot2omnr/",
+    "icon": "https://img.gamemonetize.com/djrwlkwff95gb0ezfz6zrvk8rot2omnr/512x384.jpg",
+    "genre": "Multiplayer",
+    "newest": true
+  },
+  {
+    "title": "GeometryRush",
+    "url": "https://html5.gamemonetize.co/p2p9llsb78ugrgqzp95x9a6gon3nvvfo/",
+    "icon": "https://img.gamemonetize.com/p2p9llsb78ugrgqzp95x9a6gon3nvvfo/512x384.jpg",
+    "genre": "Arcade",
+    "newest": true
+  },
+  {
+    "title": "Home Hauler Simulator",
+    "url": "https://html5.gamemonetize.co/4g753tai0ddjz5zoxj2kbm85er42m31h/",
+    "icon": "https://img.gamemonetize.com/4g753tai0ddjz5zoxj2kbm85er42m31h/512x384.jpg",
+    "genre": "Arcade",
+    "newest": true
+  },
+  {
+    "title": "Architects of Tomorrow",
+    "url": "https://html5.gamemonetize.co/nxsgnlie0cffevthfy836xp0q1pvxvxz/",
+    "icon": "https://img.gamemonetize.com/nxsgnlie0cffevthfy836xp0q1pvxvxz/512x384.jpg",
+    "genre": "Arcade",
+    "newest": true
+  },
+  {
+    "title": "Zombie Drift: Steel Rage",
+    "url": "https://html5.gamemonetize.co/ngcyjdm54a42xt9vv7wyzvnqrzbu9leg/",
+    "icon": "https://img.gamemonetize.com/ngcyjdm54a42xt9vv7wyzvnqrzbu9leg/512x384.jpg",
+    "genre": "Racing",
+    "newest": true
+  },
+  {
+    "title": "Leaf Clean Up",
+    "url": "https://html5.gamemonetize.co/vd9ocjsjxmr3szinlpw8lk3abxn2pvgo/",
+    "icon": "https://img.gamemonetize.com/vd9ocjsjxmr3szinlpw8lk3abxn2pvgo/512x384.jpg",
+    "genre": "Hypercasual",
+    "newest": true
+  },
+  {
+    "title": "Find The Key",
+    "url": "https://html5.gamemonetize.co/3bxdxntygl8uak7mr4rxvyhezemiq2vv/",
+    "icon": "https://img.gamemonetize.com/3bxdxntygl8uak7mr4rxvyhezemiq2vv/512x384.jpg",
+    "genre": "Puzzles",
+    "newest": true
+  },
+  {
+    "title": "Flappy Halloween Game",
+    "url": "https://html5.gamemonetize.co/g7c8wa9jccqy56jw9ahxb0aqjx6p2zwa/",
+    "icon": "https://img.gamemonetize.com/g7c8wa9jccqy56jw9ahxb0aqjx6p2zwa/512x384.jpg",
+    "genre": "Puzzles",
+    "newest": true
+  },
+  {
+    "title": "Demon Hunter: Beat Em Up",
+    "url": "https://html5.gamemonetize.co/rvysr6fruqcen5n7ucjf6wcgt4jh340f/",
+    "icon": "https://img.gamemonetize.com/rvysr6fruqcen5n7ucjf6wcgt4jh340f/512x384.jpg",
+    "genre": "Arcade",
+    "newest": true
+  },
+  {
+    "title": "Dark Ages: Beat Em Up",
+    "url": "https://html5.gamemonetize.co/iexarxtfm1o9b2o46wc62iid3mfg6v31/",
+    "icon": "https://img.gamemonetize.com/iexarxtfm1o9b2o46wc62iid3mfg6v31/512x384.jpg",
+    "genre": "Arcade",
+    "newest": true
+  },
+  {
+    "title": "StickNinja Mission",
+    "url": "https://html5.gamemonetize.co/5ktuaermslbv0gihcgyqb2zjm3zdvkce/",
+    "icon": "https://img.gamemonetize.com/5ktuaermslbv0gihcgyqb2zjm3zdvkce/512x384.jpg",
+    "genre": "Fighting",
+    "newest": true
+  },
+  {
+    "title": "Cheerleader Magazine Dressup",
+    "url": "https://html5.gamemonetize.co/tbn54jgvhuc0xw5k6liq3gtaf72qo9ad/",
+    "icon": "https://img.gamemonetize.com/tbn54jgvhuc0xw5k6liq3gtaf72qo9ad/512x384.jpg",
+    "genre": "Hypercasual",
+    "newest": true
+  },
+  {
+    "title": "Cliff Boi Trap Adventure",
+    "url": "https://html5.gamemonetize.co/7tgdohgpnf4m1orq11g3ql66tzatby5o/",
+    "icon": "https://img.gamemonetize.com/7tgdohgpnf4m1orq11g3ql66tzatby5o/512x384.jpg",
+    "genre": "Hypercasual",
+    "newest": true
+  },
+  {
+    "title": "Block Ship Battle",
+    "url": "https://html5.gamemonetize.co/chx14ghx41yho7ttndb9wx33d9gmz0ah/",
+    "icon": "https://img.gamemonetize.com/chx14ghx41yho7ttndb9wx33d9gmz0ah/512x384.jpg",
+    "genre": "Adventure",
+    "newest": true
+  },
+  {
     "title": "Grave Blast",
     "url": "https://html5.gamemonetize.co/a4eearo52eig908oy2hzugqa05wdnaeu/",
     "icon": "https://img.gamemonetize.com/a4eearo52eig908oy2hzugqa05wdnaeu/512x384.jpg",
@@ -34979,13 +35084,6 @@
     "newest": true
   },
   {
-    "title": "Stunt Planes",
-    "url": "https://html5.gamemonetize.co/3boeltjylmwolgm20mh48mol3l9iwakr/",
-    "icon": "https://img.gamemonetize.com/3boeltjylmwolgm20mh48mol3l9iwakr/512x384.jpg",
-    "genre": "Racing",
-    "newest": true
-  },
-  {
     "title": "Line Connect the Dots",
     "url": "https://html5.gamemonetize.co/ocituu1fhhsz27hgi98hxaai0b85bffn/",
     "icon": "https://img.gamemonetize.com/ocituu1fhhsz27hgi98hxaai0b85bffn/512x384.jpg",
@@ -42469,90 +42567,6 @@
     "newest": true
   },
   {
-    "title": "Swipe To Park The Cars",
-    "url": "https://html5.gamemonetize.co/0eii7f3a9spn9lw35vo3ovmpur1120tt/",
-    "icon": "https://img.gamemonetize.com/0eii7f3a9spn9lw35vo3ovmpur1120tt/512x384.jpg",
-    "genre": "Action",
-    "newest": true
-  },
-  {
-    "title": "Fall Fu Panda",
-    "url": "https://html5.gamemonetize.co/6kx65r64kuooctsuln4qpdyzqqmdfh00/",
-    "icon": "https://img.gamemonetize.com/6kx65r64kuooctsuln4qpdyzqqmdfh00/512x384.jpg",
-    "genre": "Puzzles",
-    "newest": true
-  },
-  {
-    "title": "Hide And Seek Horror Escape",
-    "url": "https://html5.gamemonetize.co/bqy19lboh88foefy68nejkp3zemz6c2a/",
-    "icon": "https://img.gamemonetize.com/bqy19lboh88foefy68nejkp3zemz6c2a/512x384.jpg",
-    "genre": "Puzzles",
-    "newest": true
-  },
-  {
-    "title": "My City Hospital",
-    "url": "https://html5.gamemonetize.co/h1klvtd268m5dea93y1zwuntir8bqay1/",
-    "icon": "https://img.gamemonetize.com/h1klvtd268m5dea93y1zwuntir8bqay1/512x384.jpg",
-    "genre": "Hypercasual",
-    "newest": true
-  },
-  {
-    "title": "Cat Life Merge Money",
-    "url": "https://html5.gamemonetize.co/02oaz5794rypk5gf2x113fxeibwrh1po/",
-    "icon": "https://img.gamemonetize.com/02oaz5794rypk5gf2x113fxeibwrh1po/512x384.jpg",
-    "genre": "Hypercasual",
-    "newest": true
-  },
-  {
-    "title": "Space Survivor Shooting",
-    "url": "https://html5.gamemonetize.co/fgc6kf9h3gtckyse3xsoqx3tubxzg4g5/",
-    "icon": "https://img.gamemonetize.com/fgc6kf9h3gtckyse3xsoqx3tubxzg4g5/512x384.jpg",
-    "genre": "Shooting",
-    "newest": true
-  },
-  {
-    "title": "StickMan Defense",
-    "url": "https://html5.gamemonetize.co/xnm06hp9o6dt48fua7g3jzoddqnkc5fs/",
-    "icon": "https://img.gamemonetize.com/xnm06hp9o6dt48fua7g3jzoddqnkc5fs/512x384.jpg",
-    "genre": "Action",
-    "newest": true
-  },
-  {
-    "title": "Dark Assassin",
-    "url": "https://html5.gamemonetize.co/wfnltos144ugjg2j7rh8my5c9qa0hgkf/",
-    "icon": "https://img.gamemonetize.com/wfnltos144ugjg2j7rh8my5c9qa0hgkf/512x384.jpg",
-    "genre": "Hypercasual",
-    "newest": true
-  },
-  {
-    "title": "Fruit Candy Merge",
-    "url": "https://html5.gamemonetize.co/vroh2bbwwbt8q9r4js6dg2ps7gvvlhcj/",
-    "icon": "https://img.gamemonetize.com/vroh2bbwwbt8q9r4js6dg2ps7gvvlhcj/512x384.jpg",
-    "genre": "Puzzles",
-    "newest": true
-  },
-  {
-    "title": "Noob Prison Escape Obby",
-    "url": "https://html5.gamemonetize.co/5x2qpdxndev6a12knc0yo2ea8e8fbkpk/",
-    "icon": "https://img.gamemonetize.com/5x2qpdxndev6a12knc0yo2ea8e8fbkpk/512x384.jpg",
-    "genre": "Arcade",
-    "newest": true
-  },
-  {
-    "title": "Mrs. Zombie",
-    "url": "https://html5.gamemonetize.co/pmqat5se5i4j77bnxfkqdyijp2il02xt/",
-    "icon": "https://img.gamemonetize.com/pmqat5se5i4j77bnxfkqdyijp2il02xt/512x384.jpg",
-    "genre": "Shooting",
-    "newest": true
-  },
-  {
-    "title": "Rabbit Punch Rabbit ",
-    "url": "https://html5.gamemonetize.co/pgdivazlfi4x3u9byflherbvhelzpif8/",
-    "icon": "https://img.gamemonetize.com/pgdivazlfi4x3u9byflherbvhelzpif8/512x384.jpg",
-    "genre": "Clicker",
-    "newest": true
-  },
-  {
     "title": "Dino Simulator City Attack",
     "url": "https://html5.gamemonetize.co/3jeh3dg86fnn2nlnjjqq2y8dsru7ld3c/",
     "icon": "https://img.gamemonetize.com/3jeh3dg86fnn2nlnjjqq2y8dsru7ld3c/512x384.jpg",
@@ -42752,6 +42766,20 @@
     "title": "Silent Assassin 2024",
     "url": "https://html5.gamemonetize.co/bigltd28j37dj9b4n1kz1rufoub9fjyd/",
     "icon": "https://img.gamemonetize.com/bigltd28j37dj9b4n1kz1rufoub9fjyd/512x384.jpg",
+    "genre": "Action",
+    "newest": true
+  },
+  {
+    "title": "Swipe To Park The Cars",
+    "url": "https://html5.gamemonetize.co/0eii7f3a9spn9lw35vo3ovmpur1120tt/",
+    "icon": "https://img.gamemonetize.com/0eii7f3a9spn9lw35vo3ovmpur1120tt/512x384.jpg",
+    "genre": "Action",
+    "newest": true
+  },
+  {
+    "title": "StickMan Defense",
+    "url": "https://html5.gamemonetize.co/xnm06hp9o6dt48fua7g3jzoddqnkc5fs/",
+    "icon": "https://img.gamemonetize.com/xnm06hp9o6dt48fua7g3jzoddqnkc5fs/512x384.jpg",
     "genre": "Action",
     "newest": true
   },
@@ -50047,6 +50075,13 @@
     "url": "https://html5.gamemonetize.co/x0pfxk710m9z64y80rhm4budpq283gs1/",
     "icon": "https://img.gamemonetize.com/x0pfxk710m9z64y80rhm4budpq283gs1/512x384.jpg",
     "genre": "Action",
+    "newest": true
+  },
+  {
+    "title": "Stunt Planes",
+    "url": "https://html5.gamemonetize.co/3boeltjylmwolgm20mh48mol3l9iwakr/",
+    "icon": "https://img.gamemonetize.com/3boeltjylmwolgm20mh48mol3l9iwakr/512x384.jpg",
+    "genre": "Racing",
     "newest": true
   },
   {
@@ -65810,6 +65845,13 @@
     "title": "Himalayan Monster",
     "url": "https://html5.gamemonetize.co/5l90tlhwo06lgnu0n30l3pktxvbq24z2/",
     "icon": "https://img.gamemonetize.com/5l90tlhwo06lgnu0n30l3pktxvbq24z2/512x384.jpg",
+    "genre": "Arcade",
+    "newest": true
+  },
+  {
+    "title": "Noob Prison Escape Obby",
+    "url": "https://html5.gamemonetize.co/5x2qpdxndev6a12knc0yo2ea8e8fbkpk/",
+    "icon": "https://img.gamemonetize.com/5x2qpdxndev6a12knc0yo2ea8e8fbkpk/512x384.jpg",
     "genre": "Arcade",
     "newest": true
   },
@@ -94857,34 +94899,6 @@
     "newest": true
   },
   {
-    "title": "Bricks Jenga 3D",
-    "url": "https://html5.gamemonetize.co/4uuzzwmphxl7xpcaaj2cp1n8bbtgtnjy/",
-    "icon": "https://img.gamemonetize.com/4uuzzwmphxl7xpcaaj2cp1n8bbtgtnjy/512x384.jpg",
-    "genre": "Arcade",
-    "newest": true
-  },
-  {
-    "title": "Connect Pipes Plumber",
-    "url": "https://html5.gamemonetize.co/ydzqtkqx3uux0wz11341glomboaei8sh/",
-    "icon": "https://img.gamemonetize.com/ydzqtkqx3uux0wz11341glomboaei8sh/512x384.jpg",
-    "genre": "Arcade",
-    "newest": true
-  },
-  {
-    "title": "Rally Car 3D GM",
-    "url": "https://html5.gamemonetize.co/tm1fpyhmphhhy4ie6kypknr61mgj4ipx/",
-    "icon": "https://img.gamemonetize.com/tm1fpyhmphhhy4ie6kypknr61mgj4ipx/512x384.jpg",
-    "genre": "Arcade",
-    "newest": true
-  },
-  {
-    "title": "Falling Balls 2019 GM",
-    "url": "https://html5.gamemonetize.co/lto0wx7amng48zfq2w48emt3ehv6wgei/",
-    "icon": "https://img.gamemonetize.com/lto0wx7amng48zfq2w48emt3ehv6wgei/512x384.jpg",
-    "genre": "Arcade",
-    "newest": true
-  },
-  {
     "title": "Fidget Spinner.io",
     "url": "https://html5.gamemonetize.co/mjmcfuzbsy8eblsvnhfxyh9d3gf2hjp3/",
     "icon": "https://img.gamemonetize.com/mjmcfuzbsy8eblsvnhfxyh9d3gf2hjp3/512x384.jpg",
@@ -116224,6 +116238,20 @@
     "title": "Backrooms Assault",
     "url": "https://html5.gamemonetize.co/f6smfv0uqkr4ds9oklahhhy7080sjbuw/",
     "icon": "https://img.gamemonetize.com/f6smfv0uqkr4ds9oklahhhy7080sjbuw/512x384.jpg",
+    "genre": "Shooting",
+    "newest": true
+  },
+  {
+    "title": "Space Survivor Shooting",
+    "url": "https://html5.gamemonetize.co/fgc6kf9h3gtckyse3xsoqx3tubxzg4g5/",
+    "icon": "https://img.gamemonetize.com/fgc6kf9h3gtckyse3xsoqx3tubxzg4g5/512x384.jpg",
+    "genre": "Shooting",
+    "newest": true
+  },
+  {
+    "title": "Mrs. Zombie",
+    "url": "https://html5.gamemonetize.co/pmqat5se5i4j77bnxfkqdyijp2il02xt/",
+    "icon": "https://img.gamemonetize.com/pmqat5se5i4j77bnxfkqdyijp2il02xt/512x384.jpg",
     "genre": "Shooting",
     "newest": true
   },
