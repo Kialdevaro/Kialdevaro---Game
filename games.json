@@ -1,5 +1,19 @@
 [
   {
+    "title": "Float for Brainrots",
+    "url": "https://html5.gamemonetize.co/oyfw1hcswirq80qznwjab217er8ulbgu/",
+    "icon": "https://img.gamemonetize.com/oyfw1hcswirq80qznwjab217er8ulbgu/512x384.jpg",
+    "genre": "Racing",
+    "newest": true
+  },
+  {
+    "title": "Escape School Duel",
+    "url": "https://html5.gamemonetize.co/c8knm7hay0hh38clhrvnxh82u7ocy8mo/",
+    "icon": "https://img.gamemonetize.com/c8knm7hay0hh38clhrvnxh82u7ocy8mo/512x384.jpg",
+    "genre": "Adventure",
+    "newest": true
+  },
+  {
     "title": "Rocket Car Football Championship",
     "url": "https://html5.gamemonetize.co/igh20c17cjmwac7n1k127u0q815az4vz/",
     "icon": "https://img.gamemonetize.com/igh20c17cjmwac7n1k127u0q815az4vz/512x384.jpg",
@@ -7,24 +21,10 @@
     "newest": true
   },
   {
-    "title": "Last Shift",
-    "url": "https://html5.gamemonetize.co/w20uinyyvb57g3e4hwb3j0mx2snfppa0/",
-    "icon": "https://img.gamemonetize.com/w20uinyyvb57g3e4hwb3j0mx2snfppa0/512x384.jpg",
-    "genre": "Shooting",
-    "newest": true
-  },
-  {
-    "title": "TRICK PAWS",
-    "url": "https://html5.gamemonetize.co/s9fs7ahr71sly152sn9fsw0anonp8qsv/",
-    "icon": "https://img.gamemonetize.com/s9fs7ahr71sly152sn9fsw0anonp8qsv/512x384.jpg",
-    "genre": "Arcade",
-    "newest": true
-  },
-  {
-    "title": "SIDEFIRE",
-    "url": "https://html5.gamemonetize.co/rtif0otvetqm6lq7vcuesq3acy4kgino/",
-    "icon": "https://img.gamemonetize.com/rtif0otvetqm6lq7vcuesq3acy4kgino/512x384.jpg",
-    "genre": "Shooting",
+    "title": "CORE RUSH",
+    "url": "https://html5.gamemonetize.co/l22ke63gr05vl366ye9vq5k385h5rue8/",
+    "icon": "https://img.gamemonetize.com/l22ke63gr05vl366ye9vq5k385h5rue8/512x384.jpg",
+    "genre": "Puzzles",
     "newest": true
   },
   {
@@ -35,10 +35,45 @@
     "newest": true
   },
   {
-    "title": "CORE RUSH",
-    "url": "https://html5.gamemonetize.co/l22ke63gr05vl366ye9vq5k385h5rue8/",
-    "icon": "https://img.gamemonetize.com/l22ke63gr05vl366ye9vq5k385h5rue8/512x384.jpg",
-    "genre": "Puzzles",
+    "title": "TRICK PAWS",
+    "url": "https://html5.gamemonetize.co/s9fs7ahr71sly152sn9fsw0anonp8qsv/",
+    "icon": "https://img.gamemonetize.com/s9fs7ahr71sly152sn9fsw0anonp8qsv/512x384.jpg",
+    "genre": "Arcade",
+    "newest": true
+  },
+  {
+    "title": "SIX FOLD",
+    "url": "https://html5.gamemonetize.co/1mnq6su7p2vof9h2k1leu335x6so7nvr/",
+    "icon": "https://img.gamemonetize.com/1mnq6su7p2vof9h2k1leu335x6so7nvr/512x384.jpg",
+    "genre": "Arcade",
+    "newest": true
+  },
+  {
+    "title": "Jelly Mob Rush",
+    "url": "https://html5.gamemonetize.co/qmp9f6s9yny9jhhcwi9iul8vvyxnax2w/",
+    "icon": "https://img.gamemonetize.com/qmp9f6s9yny9jhhcwi9iul8vvyxnax2w/512x384.jpg",
+    "genre": "Hypercasual",
+    "newest": true
+  },
+  {
+    "title": "Shooter: Soldiers vs Zombies",
+    "url": "https://html5.gamemonetize.co/3jargt8bsjfi2uupspvdwb7smsaok6fj/",
+    "icon": "https://img.gamemonetize.com/3jargt8bsjfi2uupspvdwb7smsaok6fj/512x384.jpg",
+    "genre": "Shooting",
+    "newest": true
+  },
+  {
+    "title": "Last Shift",
+    "url": "https://html5.gamemonetize.co/w20uinyyvb57g3e4hwb3j0mx2snfppa0/",
+    "icon": "https://img.gamemonetize.com/w20uinyyvb57g3e4hwb3j0mx2snfppa0/512x384.jpg",
+    "genre": "Shooting",
+    "newest": true
+  },
+  {
+    "title": "SIDEFIRE",
+    "url": "https://html5.gamemonetize.co/rtif0otvetqm6lq7vcuesq3acy4kgino/",
+    "icon": "https://img.gamemonetize.com/rtif0otvetqm6lq7vcuesq3acy4kgino/512x384.jpg",
+    "genre": "Shooting",
     "newest": true
   },
   {
@@ -42595,34 +42630,6 @@
     "newest": true
   },
   {
-    "title": "Noob vs Pro Super Hero",
-    "url": "https://html5.gamemonetize.co/4e9d06p2ondqoarz9ii6eq7rnu83n9lf/",
-    "icon": "https://img.gamemonetize.com/4e9d06p2ondqoarz9ii6eq7rnu83n9lf/512x384.jpg",
-    "genre": "Arcade",
-    "newest": true
-  },
-  {
-    "title": "CANDY KILLER",
-    "url": "https://html5.gamemonetize.co/b4ctthiu6xghq95xojqs4dg9jvkkwd38/",
-    "icon": "https://img.gamemonetize.com/b4ctthiu6xghq95xojqs4dg9jvkkwd38/512x384.jpg",
-    "genre": "Shooting",
-    "newest": true
-  },
-  {
-    "title": "KangaHang",
-    "url": "https://html5.gamemonetize.co/7m1q5unty6a6s3stp1xrpgvu8tpr2j1k/",
-    "icon": "https://img.gamemonetize.com/7m1q5unty6a6s3stp1xrpgvu8tpr2j1k/512x384.jpg",
-    "genre": "Puzzles",
-    "newest": true
-  },
-  {
-    "title": "Flip Match",
-    "url": "https://html5.gamemonetize.co/8wzmhtt7acvxy33sjsxj1c81djz6h4k6/",
-    "icon": "https://img.gamemonetize.com/8wzmhtt7acvxy33sjsxj1c81djz6h4k6/512x384.jpg",
-    "genre": "Puzzles",
-    "newest": true
-  },
-  {
     "title": "Jet Sky Polygon",
     "url": "https://html5.gamemonetize.co/x3z44lsc502p45dsduewuulzii850r6g/",
     "icon": "https://img.gamemonetize.com/x3z44lsc502p45dsduewuulzii850r6g/512x384.jpg",
@@ -65936,6 +65943,13 @@
     "title": "Moto SkyRace Mayhem",
     "url": "https://html5.gamemonetize.co/dtqubanhh13214g8hgn2xsi9v83vdut1/",
     "icon": "https://img.gamemonetize.com/dtqubanhh13214g8hgn2xsi9v83vdut1/512x384.jpg",
+    "genre": "Arcade",
+    "newest": true
+  },
+  {
+    "title": "Noob vs Pro Super Hero",
+    "url": "https://html5.gamemonetize.co/4e9d06p2ondqoarz9ii6eq7rnu83n9lf/",
+    "icon": "https://img.gamemonetize.com/4e9d06p2ondqoarz9ii6eq7rnu83n9lf/512x384.jpg",
     "genre": "Arcade",
     "newest": true
   },
@@ -94955,13 +94969,6 @@
     "newest": true
   },
   {
-    "title": "Top Fun Burger Maker",
-    "url": "https://html5.gamemonetize.co/3xsery7d24wfhssz55yiepozs82jx6a1/",
-    "icon": "https://img.gamemonetize.com/3xsery7d24wfhssz55yiepozs82jx6a1/512x384.jpg",
-    "genre": "Arcade",
-    "newest": true
-  },
-  {
     "title": "FZ Impossible Dash",
     "url": "https://html5.gamemonetize.co/0euej8vx4d0fhywilrx7i2mbozhgelpf/",
     "icon": "https://img.gamemonetize.com/0euej8vx4d0fhywilrx7i2mbozhgelpf/512x384.jpg",
@@ -116427,6 +116434,13 @@
     "title": "Backrooms Assault",
     "url": "https://html5.gamemonetize.co/f6smfv0uqkr4ds9oklahhhy7080sjbuw/",
     "icon": "https://img.gamemonetize.com/f6smfv0uqkr4ds9oklahhhy7080sjbuw/512x384.jpg",
+    "genre": "Shooting",
+    "newest": true
+  },
+  {
+    "title": "CANDY KILLER",
+    "url": "https://html5.gamemonetize.co/b4ctthiu6xghq95xojqs4dg9jvkkwd38/",
+    "icon": "https://img.gamemonetize.com/b4ctthiu6xghq95xojqs4dg9jvkkwd38/512x384.jpg",
     "genre": "Shooting",
     "newest": true
   },
