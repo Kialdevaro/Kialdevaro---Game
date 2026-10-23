@@ -1,5 +1,103 @@
 [
   {
+    "title": "Midway Malarkey",
+    "url": "https://html5.gamemonetize.co/4cc4nsdd1nrfgsijvi6s9ecf3awi5g8c/",
+    "icon": "https://img.gamemonetize.com/4cc4nsdd1nrfgsijvi6s9ecf3awi5g8c/512x384.jpg",
+    "genre": "Shooting",
+    "newest": true
+  },
+  {
+    "title": "Villadash Hero Rescue",
+    "url": "https://html5.gamemonetize.co/901eh9sn07eefyfjkfotl4zv432wgvud/",
+    "icon": "https://img.gamemonetize.com/901eh9sn07eefyfjkfotl4zv432wgvud/512x384.jpg",
+    "genre": "Adventure",
+    "newest": true
+  },
+  {
+    "title": "Block Drop Escape Puzzle",
+    "url": "https://html5.gamemonetize.co/zef4dbx833cpmmgfswkva8eaj811jfym/",
+    "icon": "https://img.gamemonetize.com/zef4dbx833cpmmgfswkva8eaj811jfym/512x384.jpg",
+    "genre": "Puzzles",
+    "newest": true
+  },
+  {
+    "title": "Cadillacs: Dino Riot",
+    "url": "https://html5.gamemonetize.co/6zb4cky2axmyujxxws42xc8l8q9yew2f/",
+    "icon": "https://img.gamemonetize.com/6zb4cky2axmyujxxws42xc8l8q9yew2f/512x384.jpg",
+    "genre": "Arcade",
+    "newest": true
+  },
+  {
+    "title": "Mud Truck Simulator Game",
+    "url": "https://html5.gamemonetize.co/spxackbi5osov27qpzzmtogq2lj0ag4d/",
+    "icon": "https://img.gamemonetize.com/spxackbi5osov27qpzzmtogq2lj0ag4d/512x384.jpg",
+    "genre": "Racing",
+    "newest": true
+  },
+  {
+    "title": "SPOOKY BOXING",
+    "url": "https://html5.gamemonetize.co/ll6suhn9wqqtauup2wpjr5xo1qovaulr/",
+    "icon": "https://img.gamemonetize.com/ll6suhn9wqqtauup2wpjr5xo1qovaulr/512x384.jpg",
+    "genre": "Sports",
+    "newest": true
+  },
+  {
+    "title": "Breach Ops",
+    "url": "https://html5.gamemonetize.co/vgqizq5uylf25o1i8rirsw7fo3c30vg4/",
+    "icon": "https://img.gamemonetize.com/vgqizq5uylf25o1i8rirsw7fo3c30vg4/512x384.jpg",
+    "genre": "Shooting",
+    "newest": true
+  },
+  {
+    "title": "Void Rescue",
+    "url": "https://html5.gamemonetize.co/bgf1ck5e398663kzfqn1ogx3avjkxg11/",
+    "icon": "https://img.gamemonetize.com/bgf1ck5e398663kzfqn1ogx3avjkxg11/512x384.jpg",
+    "genre": "Hypercasual",
+    "newest": true
+  },
+  {
+    "title": "RECOILS",
+    "url": "https://html5.gamemonetize.co/rt4osuaoeeeczjoejoqbn24qvjrrkwj5/",
+    "icon": "https://img.gamemonetize.com/rt4osuaoeeeczjoejoqbn24qvjrrkwj5/512x384.jpg",
+    "genre": "Shooting",
+    "newest": true
+  },
+  {
+    "title": "Save My Human",
+    "url": "https://html5.gamemonetize.co/l3eg31s26dymr6qnb8iuhq9jt10nyr9h/",
+    "icon": "https://img.gamemonetize.com/l3eg31s26dymr6qnb8iuhq9jt10nyr9h/512x384.jpg",
+    "genre": "Puzzles",
+    "newest": true
+  },
+  {
+    "title": "Anime Mom: Family Life Simulator",
+    "url": "https://html5.gamemonetize.co/izaf3stuaxnvxk12fxz4b0ibuhmk4qza/",
+    "icon": "https://img.gamemonetize.com/izaf3stuaxnvxk12fxz4b0ibuhmk4qza/512x384.jpg",
+    "genre": "Adventure",
+    "newest": true
+  },
+  {
+    "title": "Steal Car Duel",
+    "url": "https://html5.gamemonetize.co/ue3nhk2f20r984onh9u9nst268a9yh5r/",
+    "icon": "https://img.gamemonetize.com/ue3nhk2f20r984onh9u9nst268a9yh5r/512x384.jpg",
+    "genre": "Action",
+    "newest": true
+  },
+  {
+    "title": "Sniper Hero: Urban Strike",
+    "url": "https://html5.gamemonetize.co/k8xzefqhicmw6zuyv3rzgvzvvdgvbhzw/",
+    "icon": "https://img.gamemonetize.com/k8xzefqhicmw6zuyv3rzgvzvvdgvbhzw/512x384.jpg",
+    "genre": "Shooting",
+    "newest": true
+  },
+  {
+    "title": "Ligmar Online",
+    "url": "https://html5.gamemonetize.co/dp44mvajt7c6ceztkawj2i4orpo7frto/",
+    "icon": "https://img.gamemonetize.com/dp44mvajt7c6ceztkawj2i4orpo7frto/512x384.jpg",
+    "genre": "Multiplayer",
+    "newest": true
+  },
+  {
     "title": "Splash Rivals",
     "url": "https://html5.gamemonetize.co/d5r16zw4d91gars6an4gh41h3kvtf2ri/",
     "icon": "https://img.gamemonetize.com/d5r16zw4d91gars6an4gh41h3kvtf2ri/512x384.jpg",
@@ -34972,24 +35070,10 @@
     "newest": true
   },
   {
-    "title": "Harvest Store Sorting",
-    "url": "https://html5.gamemonetize.co/g57t0dx2i7kxc0ap32wlknqhyznrofz2/",
-    "icon": "https://img.gamemonetize.com/g57t0dx2i7kxc0ap32wlknqhyznrofz2/512x384.jpg",
-    "genre": "Puzzles",
-    "newest": true
-  },
-  {
     "title": "Chill Math Division",
     "url": "https://html5.gamemonetize.co/90anzkwpigevn0kg01f7t2d8uvbcvtvx/",
     "icon": "https://img.gamemonetize.com/90anzkwpigevn0kg01f7t2d8uvbcvtvx/512x384.jpg",
     "genre": "Puzzles",
-    "newest": true
-  },
-  {
-    "title": "Pixcade 2 Player Escape",
-    "url": "https://html5.gamemonetize.co/mvmjkf5ad4s4hp5pek2mxdf303yivfnm/",
-    "icon": "https://img.gamemonetize.com/mvmjkf5ad4s4hp5pek2mxdf303yivfnm/512x384.jpg",
-    "genre": "Arcade",
     "newest": true
   },
   {
@@ -42543,90 +42627,6 @@
     "url": "https://html5.gamemonetize.co/9e3ty6hj79blxj4d4q3b362uz4t4u2si/",
     "icon": "https://img.gamemonetize.com/9e3ty6hj79blxj4d4q3b362uz4t4u2si/512x384.jpg",
     "genre": "Sports",
-    "newest": true
-  },
-  {
-    "title": "Logical Ball Escape",
-    "url": "https://html5.gamemonetize.co/5x3c8p5fne5r57bz2olo8fj9usg5fwux/",
-    "icon": "https://img.gamemonetize.com/5x3c8p5fne5r57bz2olo8fj9usg5fwux/512x384.jpg",
-    "genre": "Puzzles",
-    "newest": true
-  },
-  {
-    "title": "Go and shoot",
-    "url": "https://html5.gamemonetize.co/84vcql6pc5z8hbqgxxzjbz9shsut16jv/",
-    "icon": "https://img.gamemonetize.com/84vcql6pc5z8hbqgxxzjbz9shsut16jv/512x384.jpg",
-    "genre": "Arcade",
-    "newest": true
-  },
-  {
-    "title": "Swap Pins!",
-    "url": "https://html5.gamemonetize.co/urgoddizhmqlpaimtlysm45g000buaq4/",
-    "icon": "https://img.gamemonetize.com/urgoddizhmqlpaimtlysm45g000buaq4/512x384.jpg",
-    "genre": "Hypercasual",
-    "newest": true
-  },
-  {
-    "title": "Guess The Flags",
-    "url": "https://html5.gamemonetize.co/inecaxtvaq78xspd55l0wxdb8ss4o56p/",
-    "icon": "https://img.gamemonetize.com/inecaxtvaq78xspd55l0wxdb8ss4o56p/512x384.jpg",
-    "genre": "Puzzles",
-    "newest": true
-  },
-  {
-    "title": "Russian Checkers",
-    "url": "https://html5.gamemonetize.co/80zf7w7165riqs2xs3tmu1my5uwte3xk/",
-    "icon": "https://img.gamemonetize.com/80zf7w7165riqs2xs3tmu1my5uwte3xk/512x384.jpg",
-    "genre": "Puzzles",
-    "newest": true
-  },
-  {
-    "title": "Noob Chicken Hunter",
-    "url": "https://html5.gamemonetize.co/dzfjinj4pbi5iztlq1ai6onjlhmzhdnt/",
-    "icon": "https://img.gamemonetize.com/dzfjinj4pbi5iztlq1ai6onjlhmzhdnt/512x384.jpg",
-    "genre": "Arcade",
-    "newest": true
-  },
-  {
-    "title": "Color Path IO",
-    "url": "https://html5.gamemonetize.co/993brpbfu5u9o090ik0khqjsgf8t0kg6/",
-    "icon": "https://img.gamemonetize.com/993brpbfu5u9o090ik0khqjsgf8t0kg6/512x384.jpg",
-    "genre": "Multiplayer",
-    "newest": true
-  },
-  {
-    "title": "Falling Gem",
-    "url": "https://html5.gamemonetize.co/5rb28igfnnzqtb2l3z2deos6gll4m1hu/",
-    "icon": "https://img.gamemonetize.com/5rb28igfnnzqtb2l3z2deos6gll4m1hu/512x384.jpg",
-    "genre": "Shooting",
-    "newest": true
-  },
-  {
-    "title": "Celebrity Dark Gothic Fashion",
-    "url": "https://html5.gamemonetize.co/jhcxheu7hik0bmrys2wnarmxe6ze3wkq/",
-    "icon": "https://img.gamemonetize.com/jhcxheu7hik0bmrys2wnarmxe6ze3wkq/512x384.jpg",
-    "genre": "Girls",
-    "newest": true
-  },
-  {
-    "title": "Match The Hues",
-    "url": "https://html5.gamemonetize.co/3xd9xim14wn5ja2x1hfap7cwjjm9hy4n/",
-    "icon": "https://img.gamemonetize.com/3xd9xim14wn5ja2x1hfap7cwjjm9hy4n/512x384.jpg",
-    "genre": "Hypercasual",
-    "newest": true
-  },
-  {
-    "title": "Chicken",
-    "url": "https://html5.gamemonetize.co/bb9mkmgd0b17mcgi6ub0mqcv2fxvzh5u/",
-    "icon": "https://img.gamemonetize.com/bb9mkmgd0b17mcgi6ub0mqcv2fxvzh5u/512x384.jpg",
-    "genre": "Shooting",
-    "newest": true
-  },
-  {
-    "title": "Stunt Boxes",
-    "url": "https://html5.gamemonetize.co/8kg7ri86thvggvoj3zktkjcpli6nqj00/",
-    "icon": "https://img.gamemonetize.com/8kg7ri86thvggvoj3zktkjcpli6nqj00/512x384.jpg",
-    "genre": "Hypercasual",
     "newest": true
   },
   {
@@ -65842,6 +65842,13 @@
     "newest": true
   },
   {
+    "title": "Pixcade 2 Player Escape",
+    "url": "https://html5.gamemonetize.co/mvmjkf5ad4s4hp5pek2mxdf303yivfnm/",
+    "icon": "https://img.gamemonetize.com/mvmjkf5ad4s4hp5pek2mxdf303yivfnm/512x384.jpg",
+    "genre": "Arcade",
+    "newest": true
+  },
+  {
     "title": "DanDan Slime Unblocked",
     "url": "https://html5.gamemonetize.co/1qvwtw8ix7ggb9hfdgu5y5k13qwjr5u7/",
     "icon": "https://img.gamemonetize.com/1qvwtw8ix7ggb9hfdgu5y5k13qwjr5u7/512x384.jpg",
@@ -65936,6 +65943,20 @@
     "title": "Car Ultimate Stunt Racer",
     "url": "https://html5.gamemonetize.co/ss1suf4uxv77umix2xko9mu5964j8szh/",
     "icon": "https://img.gamemonetize.com/ss1suf4uxv77umix2xko9mu5964j8szh/512x384.jpg",
+    "genre": "Arcade",
+    "newest": true
+  },
+  {
+    "title": "Go and shoot",
+    "url": "https://html5.gamemonetize.co/84vcql6pc5z8hbqgxxzjbz9shsut16jv/",
+    "icon": "https://img.gamemonetize.com/84vcql6pc5z8hbqgxxzjbz9shsut16jv/512x384.jpg",
+    "genre": "Arcade",
+    "newest": true
+  },
+  {
+    "title": "Noob Chicken Hunter",
+    "url": "https://html5.gamemonetize.co/dzfjinj4pbi5iztlq1ai6onjlhmzhdnt/",
+    "icon": "https://img.gamemonetize.com/dzfjinj4pbi5iztlq1ai6onjlhmzhdnt/512x384.jpg",
     "genre": "Arcade",
     "newest": true
   },
@@ -94983,13 +95004,6 @@
     "newest": true
   },
   {
-    "title": "Super Neon Ball",
-    "url": "https://html5.gamemonetize.co/nsvw98y6e61iuekrmvqg35j77xwiguy4/",
-    "icon": "https://img.gamemonetize.com/nsvw98y6e61iuekrmvqg35j77xwiguy4/512x384.jpg",
-    "genre": "Arcade",
-    "newest": true
-  },
-  {
     "title": "Brick Out Game",
     "url": "https://html5.gamemonetize.co/n46u9vz7uyod5c0mf9snvryufjbng6u3/",
     "icon": "https://img.gamemonetize.com/n46u9vz7uyod5c0mf9snvryufjbng6u3/512x384.jpg",
@@ -116483,6 +116497,20 @@
     "title": "Backrooms Assault",
     "url": "https://html5.gamemonetize.co/f6smfv0uqkr4ds9oklahhhy7080sjbuw/",
     "icon": "https://img.gamemonetize.com/f6smfv0uqkr4ds9oklahhhy7080sjbuw/512x384.jpg",
+    "genre": "Shooting",
+    "newest": true
+  },
+  {
+    "title": "Falling Gem",
+    "url": "https://html5.gamemonetize.co/5rb28igfnnzqtb2l3z2deos6gll4m1hu/",
+    "icon": "https://img.gamemonetize.com/5rb28igfnnzqtb2l3z2deos6gll4m1hu/512x384.jpg",
+    "genre": "Shooting",
+    "newest": true
+  },
+  {
+    "title": "Chicken",
+    "url": "https://html5.gamemonetize.co/bb9mkmgd0b17mcgi6ub0mqcv2fxvzh5u/",
+    "icon": "https://img.gamemonetize.com/bb9mkmgd0b17mcgi6ub0mqcv2fxvzh5u/512x384.jpg",
     "genre": "Shooting",
     "newest": true
   },
