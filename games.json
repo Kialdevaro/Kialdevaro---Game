@@ -1,5 +1,110 @@
 [
   {
+    "title": "Slime Jump: Crown Quest",
+    "url": "https://html5.gamemonetize.co/qv3a9n2x1eb4ln212n0kyb6xd6xx0unu/",
+    "icon": "https://img.gamemonetize.com/qv3a9n2x1eb4ln212n0kyb6xd6xx0unu/512x384.jpg",
+    "genre": "Arcade",
+    "newest": true
+  },
+  {
+    "title": "TideRoll: Block Puzzle",
+    "url": "https://html5.gamemonetize.co/o8low93sur66jwptcrebd98rfwjq6vhh/",
+    "icon": "https://img.gamemonetize.com/o8low93sur66jwptcrebd98rfwjq6vhh/512x384.jpg",
+    "genre": "Puzzles",
+    "newest": true
+  },
+  {
+    "title": "Brainrot Escape: Diamond Quest",
+    "url": "https://html5.gamemonetize.co/5kvbn441j1a8r3v03e4ds8rdamnr0304/",
+    "icon": "https://img.gamemonetize.com/5kvbn441j1a8r3v03e4ds8rdamnr0304/512x384.jpg",
+    "genre": "Action",
+    "newest": true
+  },
+  {
+    "title": "Cold Iron: Last Extraction",
+    "url": "https://html5.gamemonetize.co/k844ttydwj9x4oswhk1bfzit2t75thu7/",
+    "icon": "https://img.gamemonetize.com/k844ttydwj9x4oswhk1bfzit2t75thu7/512x384.jpg",
+    "genre": "Shooting",
+    "newest": true
+  },
+  {
+    "title": "Robot Strike: FPS Shooter",
+    "url": "https://html5.gamemonetize.co/hhyuzg9eh119tudrikusoeiej61cn29s/",
+    "icon": "https://img.gamemonetize.com/hhyuzg9eh119tudrikusoeiej61cn29s/512x384.jpg",
+    "genre": "Shooting",
+    "newest": true
+  },
+  {
+    "title": "Birds Jump 2",
+    "url": "https://html5.gamemonetize.co/aeg86hu60xb1rkhs4gmuk9agfidfgy5s/",
+    "icon": "https://img.gamemonetize.com/aeg86hu60xb1rkhs4gmuk9agfidfgy5s/512x384.jpg",
+    "genre": "Hypercasual",
+    "newest": true
+  },
+  {
+    "title": "Tidal Kart",
+    "url": "https://html5.gamemonetize.co/osm7ce5njwn43zxsfdfx0y4eluu9cke9/",
+    "icon": "https://img.gamemonetize.com/osm7ce5njwn43zxsfdfx0y4eluu9cke9/512x384.jpg",
+    "genre": "Racing",
+    "newest": true
+  },
+  {
+    "title": "DRONE ZERO",
+    "url": "https://html5.gamemonetize.co/eh96xwwzpg7640fjytvfybwpofknisx6/",
+    "icon": "https://img.gamemonetize.com/eh96xwwzpg7640fjytvfybwpofknisx6/512x384.jpg",
+    "genre": "Arcade",
+    "newest": true
+  },
+  {
+    "title": "Crust Courier: Pizza Bike Rush",
+    "url": "https://html5.gamemonetize.co/2fxjbiapt9fveb2ccj5yg6st50h16fhu/",
+    "icon": "https://img.gamemonetize.com/2fxjbiapt9fveb2ccj5yg6st50h16fhu/512x384.jpg",
+    "genre": "3D",
+    "newest": true
+  },
+  {
+    "title": "Sky Racer Simulator",
+    "url": "https://html5.gamemonetize.co/malvwg2b3gio6vbmwytlfjyql1nckqjj/",
+    "icon": "https://img.gamemonetize.com/malvwg2b3gio6vbmwytlfjyql1nckqjj/512x384.jpg",
+    "genre": "Racing",
+    "newest": true
+  },
+  {
+    "title": "Parcel Pulse Toy Factory",
+    "url": "https://html5.gamemonetize.co/yfdj546g73behamptyfy3s92xvqpg3ne/",
+    "icon": "https://img.gamemonetize.com/yfdj546g73behamptyfy3s92xvqpg3ne/512x384.jpg",
+    "genre": "Puzzles",
+    "newest": true
+  },
+  {
+    "title": "Frontline Strike",
+    "url": "https://html5.gamemonetize.co/iid6srdhmq9jgjk1ngst4n25gyfb5do3/",
+    "icon": "https://img.gamemonetize.com/iid6srdhmq9jgjk1ngst4n25gyfb5do3/512x384.jpg",
+    "genre": "Shooting",
+    "newest": true
+  },
+  {
+    "title": "Batman Chase",
+    "url": "https://html5.gamemonetize.co/qs83vlom6ynajpa1te5xppdgwa89puxc/",
+    "icon": "https://img.gamemonetize.com/qs83vlom6ynajpa1te5xppdgwa89puxc/512x384.jpg",
+    "genre": "Racing",
+    "newest": true
+  },
+  {
+    "title": "Anti Spider Run",
+    "url": "https://html5.gamemonetize.co/p969z2qusrk1utlzcbr3t4htnxdjfmew/",
+    "icon": "https://img.gamemonetize.com/p969z2qusrk1utlzcbr3t4htnxdjfmew/512x384.jpg",
+    "genre": "Hypercasual",
+    "newest": true
+  },
+  {
+    "title": "Lane Shooter",
+    "url": "https://html5.gamemonetize.co/fo9hrh4c7buzk4j5eid2nqua5b9y9pzw/",
+    "icon": "https://img.gamemonetize.com/fo9hrh4c7buzk4j5eid2nqua5b9y9pzw/512x384.jpg",
+    "genre": "Shooting",
+    "newest": true
+  },
+  {
     "title": "FPS Block Strike Dust2",
     "url": "https://html5.gamemonetize.co/09injp4gn3ewindof0o3jf5jrx6apcij/",
     "icon": "https://img.gamemonetize.com/09injp4gn3ewindof0o3jf5jrx6apcij/512x384.jpg",
@@ -34916,13 +35021,6 @@
     "newest": true
   },
   {
-    "title": "Who am I Guess Who",
-    "url": "https://html5.gamemonetize.co/rqq2il8rmu55bc7p2d51zruezed9vuy7/",
-    "icon": "https://img.gamemonetize.com/rqq2il8rmu55bc7p2d51zruezed9vuy7/512x384.jpg",
-    "genre": "Arcade",
-    "newest": true
-  },
-  {
     "title": "Ticktock Egg Run",
     "url": "https://html5.gamemonetize.co/f6ue5r1d5hl0evs9nsdm3xjxt20ekq50/",
     "icon": "https://img.gamemonetize.com/f6ue5r1d5hl0evs9nsdm3xjxt20ekq50/512x384.jpg",
@@ -34944,31 +35042,10 @@
     "newest": true
   },
   {
-    "title": "Zombie City Polygon Survival",
-    "url": "https://html5.gamemonetize.co/1zaujujxlldglgal798nxmm5imr74c8h/",
-    "icon": "https://img.gamemonetize.com/1zaujujxlldglgal798nxmm5imr74c8h/512x384.jpg",
-    "genre": "Shooting",
-    "newest": true
-  },
-  {
-    "title": "Sprunki Retake Creamy",
-    "url": "https://html5.gamemonetize.co/h2gc9x4cqakk14toenwo9weedtgi0xav/",
-    "icon": "https://img.gamemonetize.com/h2gc9x4cqakk14toenwo9weedtgi0xav/512x384.jpg",
-    "genre": "Hypercasual",
-    "newest": true
-  },
-  {
     "title": "Muscle Bridge Race 3d",
     "url": "https://html5.gamemonetize.co/zicpg1dqmzdoecuk0qj3i3dtzaswx11y/",
     "icon": "https://img.gamemonetize.com/zicpg1dqmzdoecuk0qj3i3dtzaswx11y/512x384.jpg",
     "genre": "Racing",
-    "newest": true
-  },
-  {
-    "title": "Classy Pricness Dressup and Makeup",
-    "url": "https://html5.gamemonetize.co/c0wpbnqjad725dh7ti3hrh1s16lwcgk8/",
-    "icon": "https://img.gamemonetize.com/c0wpbnqjad725dh7ti3hrh1s16lwcgk8/512x384.jpg",
-    "genre": "Hypercasual",
     "newest": true
   },
   {
@@ -42588,83 +42665,6 @@
     "newest": true
   },
   {
-    "title": "Starlight Quest",
-    "url": "https://html5.gamemonetize.co/61gyw3acao3mkp65tn6clczyl3afw7pt/",
-    "icon": "https://img.gamemonetize.com/61gyw3acao3mkp65tn6clczyl3afw7pt/512x384.jpg",
-    "genre": "Shooting",
-    "newest": true
-  },
-  {
-    "title": "Superhero Race 2",
-    "url": "https://html5.gamemonetize.co/jlhb03k3tlmjw4nd0i8ad401r4bsjucx/",
-    "icon": "https://img.gamemonetize.com/jlhb03k3tlmjw4nd0i8ad401r4bsjucx/512x384.jpg",
-    "genre": "Racing",
-    "newest": true
-  },
-  {
-    "title": "Pumpkin Jack",
-    "url": "https://html5.gamemonetize.co/jmiu4rseylsicpzj51onfwk9rxgi74t0/",
-    "icon": "https://img.gamemonetize.com/jmiu4rseylsicpzj51onfwk9rxgi74t0/512x384.jpg",
-    "genre": "Puzzles",
-    "newest": true
-  },
-  {
-    "title": "Color Mix",
-    "url": "https://html5.gamemonetize.co/cuh7uwqk254jzq0y6219qp1fqi485ut3/",
-    "icon": "https://img.gamemonetize.com/cuh7uwqk254jzq0y6219qp1fqi485ut3/512x384.jpg",
-    "genre": "Puzzles",
-    "newest": true
-  },
-  {
-    "title": "Meme Challenge Dank Memes",
-    "url": "https://html5.gamemonetize.co/yw21uu6tq9dsfqqo358vdvw4cwmxx21j/",
-    "icon": "https://img.gamemonetize.com/yw21uu6tq9dsfqqo358vdvw4cwmxx21j/512x384.jpg",
-    "genre": "Puzzles",
-    "newest": true
-  },
-  {
-    "title": "Jump Mania",
-    "url": "https://html5.gamemonetize.co/sbchhe678acc7dlh27iofso9kt7hiu5y/",
-    "icon": "https://img.gamemonetize.com/sbchhe678acc7dlh27iofso9kt7hiu5y/512x384.jpg",
-    "genre": "Hypercasual",
-    "newest": true
-  },
-  {
-    "title": "The Pond Adventure",
-    "url": "https://html5.gamemonetize.co/6cz3l3yzmfzya0apwojhnlsq0vqm25bv/",
-    "icon": "https://img.gamemonetize.com/6cz3l3yzmfzya0apwojhnlsq0vqm25bv/512x384.jpg",
-    "genre": "Arcade",
-    "newest": true
-  },
-  {
-    "title": "Baby Animals Pet Vet Care",
-    "url": "https://html5.gamemonetize.co/fd2h9z2r60ru689iec2gv1ecpq9ndt3d/",
-    "icon": "https://img.gamemonetize.com/fd2h9z2r60ru689iec2gv1ecpq9ndt3d/512x384.jpg",
-    "genre": "Hypercasual",
-    "newest": true
-  },
-  {
-    "title": "My Fire Station World",
-    "url": "https://html5.gamemonetize.co/aejgia1z9yfmdqtwwd56h8ojij71h6j7/",
-    "icon": "https://img.gamemonetize.com/aejgia1z9yfmdqtwwd56h8ojij71h6j7/512x384.jpg",
-    "genre": "Hypercasual",
-    "newest": true
-  },
-  {
-    "title": "Steve Diamond Hunter",
-    "url": "https://html5.gamemonetize.co/aphd6rpttbu63zfqmpo662kaks7r4thi/",
-    "icon": "https://img.gamemonetize.com/aphd6rpttbu63zfqmpo662kaks7r4thi/512x384.jpg",
-    "genre": "Puzzles",
-    "newest": true
-  },
-  {
-    "title": "Robot Fighting Adventure",
-    "url": "https://html5.gamemonetize.co/riw72brknxjp2r5nx3oh8mh6pm2uqwd2/",
-    "icon": "https://img.gamemonetize.com/riw72brknxjp2r5nx3oh8mh6pm2uqwd2/512x384.jpg",
-    "genre": "Boys",
-    "newest": true
-  },
-  {
     "title": "Jet Sky Polygon",
     "url": "https://html5.gamemonetize.co/x3z44lsc502p45dsduewuulzii850r6g/",
     "icon": "https://img.gamemonetize.com/x3z44lsc502p45dsduewuulzii850r6g/512x384.jpg",
@@ -50256,6 +50256,13 @@
     "title": "Zombiracer Speed On Earth",
     "url": "https://html5.gamemonetize.co/594nplusw7po4zpb6uqgcbi6bdpdb5vh/",
     "icon": "https://img.gamemonetize.com/594nplusw7po4zpb6uqgcbi6bdpdb5vh/512x384.jpg",
+    "genre": "Racing",
+    "newest": true
+  },
+  {
+    "title": "Superhero Race 2",
+    "url": "https://html5.gamemonetize.co/jlhb03k3tlmjw4nd0i8ad401r4bsjucx/",
+    "icon": "https://img.gamemonetize.com/jlhb03k3tlmjw4nd0i8ad401r4bsjucx/512x384.jpg",
     "genre": "Racing",
     "newest": true
   },
@@ -65919,6 +65926,13 @@
     "newest": true
   },
   {
+    "title": "Who am I Guess Who",
+    "url": "https://html5.gamemonetize.co/rqq2il8rmu55bc7p2d51zruezed9vuy7/",
+    "icon": "https://img.gamemonetize.com/rqq2il8rmu55bc7p2d51zruezed9vuy7/512x384.jpg",
+    "genre": "Arcade",
+    "newest": true
+  },
+  {
     "title": "Roll Classic",
     "url": "https://html5.gamemonetize.co/nka4bj7gu2f4ms2bruo8kc6bq6o95j4f/",
     "icon": "https://img.gamemonetize.com/nka4bj7gu2f4ms2bruo8kc6bq6o95j4f/512x384.jpg",
@@ -66013,6 +66027,13 @@
     "title": "Meteorite Miner",
     "url": "https://html5.gamemonetize.co/qkohaz9qkr86jt2wlf89gt7830y740tb/",
     "icon": "https://img.gamemonetize.com/qkohaz9qkr86jt2wlf89gt7830y740tb/512x384.jpg",
+    "genre": "Arcade",
+    "newest": true
+  },
+  {
+    "title": "The Pond Adventure",
+    "url": "https://html5.gamemonetize.co/6cz3l3yzmfzya0apwojhnlsq0vqm25bv/",
+    "icon": "https://img.gamemonetize.com/6cz3l3yzmfzya0apwojhnlsq0vqm25bv/512x384.jpg",
     "genre": "Arcade",
     "newest": true
   },
@@ -95018,20 +95039,6 @@
     "newest": true
   },
   {
-    "title": "Domino Fun Game 2019",
-    "url": "https://html5.gamemonetize.co/mr3c16rgvcwuy0eylgl3miy9e2sgo2ba/",
-    "icon": "https://img.gamemonetize.com/mr3c16rgvcwuy0eylgl3miy9e2sgo2ba/512x384.jpg",
-    "genre": "Arcade",
-    "newest": true
-  },
-  {
-    "title": "Pixel BigHead Run",
-    "url": "https://html5.gamemonetize.co/d615qw6tlbsdu5ztq0wmcv1x8gsia9do/",
-    "icon": "https://img.gamemonetize.com/d615qw6tlbsdu5ztq0wmcv1x8gsia9do/512x384.jpg",
-    "genre": "Arcade",
-    "newest": true
-  },
-  {
     "title": "Gravity Russian Tumbler Toy",
     "url": "https://html5.gamemonetize.co/0hdhmqgmf90w51tmq1ut9zt8r1twa5xa/",
     "icon": "https://img.gamemonetize.com/0hdhmqgmf90w51tmq1ut9zt8r1twa5xa/512x384.jpg",
@@ -116480,6 +116487,13 @@
     "newest": true
   },
   {
+    "title": "Zombie City Polygon Survival",
+    "url": "https://html5.gamemonetize.co/1zaujujxlldglgal798nxmm5imr74c8h/",
+    "icon": "https://img.gamemonetize.com/1zaujujxlldglgal798nxmm5imr74c8h/512x384.jpg",
+    "genre": "Shooting",
+    "newest": true
+  },
+  {
     "title": "Counter Craft: Modern Warfare",
     "url": "https://html5.gamemonetize.co/x3lxmjvggndxcig3kef05pc978nkrbta/",
     "icon": "https://img.gamemonetize.com/x3lxmjvggndxcig3kef05pc978nkrbta/512x384.jpg",
@@ -116602,6 +116616,13 @@
     "title": "2048Skill Edition",
     "url": "https://html5.gamemonetize.co/m3tjd1tloiow2a5g43pzejjmyqfoyxtj/",
     "icon": "https://img.gamemonetize.com/m3tjd1tloiow2a5g43pzejjmyqfoyxtj/512x384.jpg",
+    "genre": "Shooting",
+    "newest": true
+  },
+  {
+    "title": "Starlight Quest",
+    "url": "https://html5.gamemonetize.co/61gyw3acao3mkp65tn6clczyl3afw7pt/",
+    "icon": "https://img.gamemonetize.com/61gyw3acao3mkp65tn6clczyl3afw7pt/512x384.jpg",
     "genre": "Shooting",
     "newest": true
   },
