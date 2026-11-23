@@ -1,5 +1,33 @@
 [
   {
+    "title": "Mischief Mutt",
+    "url": "https://html5.gamemonetize.co/2tnbauo2872rczzexuf4eq84cfzsf59r/",
+    "icon": "https://img.gamemonetize.com/2tnbauo2872rczzexuf4eq84cfzsf59r/512x384.jpg",
+    "genre": "Adventure",
+    "newest": true
+  },
+  {
+    "title": "Last Shift: Bot Battle",
+    "url": "https://html5.gamemonetize.co/ckppbwh5105f2n7cwzo0vlx86kh7xq4f/",
+    "icon": "https://img.gamemonetize.com/ckppbwh5105f2n7cwzo0vlx86kh7xq4f/512x384.jpg",
+    "genre": "Shooting",
+    "newest": true
+  },
+  {
+    "title": "Mega Chicken Run",
+    "url": "https://html5.gamemonetize.co/62ewtmmb2j6svoctyibp9wf6vdbzreqe/",
+    "icon": "https://img.gamemonetize.com/62ewtmmb2j6svoctyibp9wf6vdbzreqe/512x384.jpg",
+    "genre": "Arcade",
+    "newest": true
+  },
+  {
+    "title": "Pothole Party",
+    "url": "https://html5.gamemonetize.co/f4ckpw1319gmulnzg2l4ubovzpiu3k0z/",
+    "icon": "https://img.gamemonetize.com/f4ckpw1319gmulnzg2l4ubovzpiu3k0z/512x384.jpg",
+    "genre": "Hypercasual",
+    "newest": true
+  },
+  {
     "title": "RALLY ART",
     "url": "https://html5.gamemonetize.co/cali8da8z4too5k7675rybnf5oifuzft/",
     "icon": "https://img.gamemonetize.com/cali8da8z4too5k7675rybnf5oifuzft/512x384.jpg",
@@ -35000,13 +35028,6 @@
     "newest": true
   },
   {
-    "title": "Word Dropping",
-    "url": "https://html5.gamemonetize.co/qmsfzp1rxlvi6g1a85pzig18uhdchmqh/",
-    "icon": "https://img.gamemonetize.com/qmsfzp1rxlvi6g1a85pzig18uhdchmqh/512x384.jpg",
-    "genre": "Hypercasual",
-    "newest": true
-  },
-  {
     "title": "Farm Frenzy",
     "url": "https://html5.gamemonetize.co/b09rgxnv6omua0vczpjw2s4spubeuj4x/",
     "icon": "https://img.gamemonetize.com/b09rgxnv6omua0vczpjw2s4spubeuj4x/512x384.jpg",
@@ -42823,34 +42844,6 @@
     "url": "https://html5.gamemonetize.co/p0drtafx16rvpskky5768gbl38vr81sz/",
     "icon": "https://img.gamemonetize.com/p0drtafx16rvpskky5768gbl38vr81sz/512x384.jpg",
     "genre": "Puzzles",
-    "newest": true
-  },
-  {
-    "title": "Find The  Correct Shadow",
-    "url": "https://html5.gamemonetize.co/3m043n1cb8et8w63mdahpdqao96trr6u/",
-    "icon": "https://img.gamemonetize.com/3m043n1cb8et8w63mdahpdqao96trr6u/512x384.jpg",
-    "genre": "Puzzles",
-    "newest": true
-  },
-  {
-    "title": "Steve SurvivalCraft Easy",
-    "url": "https://html5.gamemonetize.co/5tuf1dnz1lq475pw7jyq3s70jq11u8u2/",
-    "icon": "https://img.gamemonetize.com/5tuf1dnz1lq475pw7jyq3s70jq11u8u2/512x384.jpg",
-    "genre": "Adventure",
-    "newest": true
-  },
-  {
-    "title": "Lovely Dog Daycare",
-    "url": "https://html5.gamemonetize.co/24paorwkdzcm278tat3fhj9a1gskfc5s/",
-    "icon": "https://img.gamemonetize.com/24paorwkdzcm278tat3fhj9a1gskfc5s/512x384.jpg",
-    "genre": "Hypercasual",
-    "newest": true
-  },
-  {
-    "title": "Baby Cooking Chef",
-    "url": "https://html5.gamemonetize.co/h8cmo5l81vk6qzn8lf0ua8khf8xgpfgf/",
-    "icon": "https://img.gamemonetize.com/h8cmo5l81vk6qzn8lf0ua8khf8xgpfgf/512x384.jpg",
-    "genre": "Hypercasual",
     "newest": true
   },
   {
@@ -96036,6 +96029,13 @@
     "title": "Halloween Tic Tac Toe",
     "url": "https://html5.gamemonetize.co/bkzm2igk4gc4eyhfy7jst84vjmbnrhwr/",
     "icon": "https://img.gamemonetize.com/bkzm2igk4gc4eyhfy7jst84vjmbnrhwr/512x384.jpg",
+    "genre": "Adventure",
+    "newest": true
+  },
+  {
+    "title": "Steve SurvivalCraft Easy",
+    "url": "https://html5.gamemonetize.co/5tuf1dnz1lq475pw7jyq3s70jq11u8u2/",
+    "icon": "https://img.gamemonetize.com/5tuf1dnz1lq475pw7jyq3s70jq11u8u2/512x384.jpg",
     "genre": "Adventure",
     "newest": true
   },
