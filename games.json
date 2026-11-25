@@ -1,19 +1,5 @@
 [
   {
-    "title": "Dust Dynamite: Voxel Bomberman",
-    "url": "https://html5.gamemonetize.co/dctdhvic6nrdl6x3po1lh6j3kuai9vua/",
-    "icon": "https://img.gamemonetize.com/dctdhvic6nrdl6x3po1lh6j3kuai9vua/512x384.jpg",
-    "genre": "Arcade",
-    "newest": true
-  },
-  {
-    "title": "My HotPot Store",
-    "url": "https://html5.gamemonetize.co/bwnwd62dlichf80m9w10rhjkzr9riwl3/",
-    "icon": "https://img.gamemonetize.com/bwnwd62dlichf80m9w10rhjkzr9riwl3/512x384.jpg",
-    "genre": "Hypercasual",
-    "newest": true
-  },
-  {
     "title": "RoboStrike 3D",
     "url": "https://html5.gamemonetize.co/yrdx5ckdm2xnfglz7mgsizbk8si1o2ql/",
     "icon": "https://img.gamemonetize.com/yrdx5ckdm2xnfglz7mgsizbk8si1o2ql/512x384.jpg",
@@ -25,6 +11,48 @@
     "url": "https://html5.gamemonetize.co/oebrmrqa1ikt01i97e97k9sn7jwf38w2/",
     "icon": "https://img.gamemonetize.com/oebrmrqa1ikt01i97e97k9sn7jwf38w2/512x384.jpg",
     "genre": "Racing",
+    "newest": true
+  },
+  {
+    "title": "Jelly Fruit",
+    "url": "https://html5.gamemonetize.co/jbf32ft76d8gl85pk2rehocu2etqmqk0/",
+    "icon": "https://img.gamemonetize.com/jbf32ft76d8gl85pk2rehocu2etqmqk0/512x384.jpg",
+    "genre": "Puzzles",
+    "newest": true
+  },
+  {
+    "title": "TinyRacers.io",
+    "url": "https://html5.gamemonetize.co/y12jrygka7dw1w2s224wrqru2jp7jcma/",
+    "icon": "https://img.gamemonetize.com/y12jrygka7dw1w2s224wrqru2jp7jcma/512x384.jpg",
+    "genre": "Racing",
+    "newest": true
+  },
+  {
+    "title": "Special Strike Multiplayer",
+    "url": "https://html5.gamemonetize.co/kz9ogh3vap8jb1oprfv1mg0660cz0oug/",
+    "icon": "https://img.gamemonetize.com/kz9ogh3vap8jb1oprfv1mg0660cz0oug/512x384.jpg",
+    "genre": "Shooting",
+    "newest": true
+  },
+  {
+    "title": "Build It Up",
+    "url": "https://html5.gamemonetize.co/v2wz5xn46dzkd4c318r05imesjrj0ysu/",
+    "icon": "https://img.gamemonetize.com/v2wz5xn46dzkd4c318r05imesjrj0ysu/512x384.jpg",
+    "genre": "Puzzles",
+    "newest": true
+  },
+  {
+    "title": "Dust Dynamite: Voxel Bomberman",
+    "url": "https://html5.gamemonetize.co/dctdhvic6nrdl6x3po1lh6j3kuai9vua/",
+    "icon": "https://img.gamemonetize.com/dctdhvic6nrdl6x3po1lh6j3kuai9vua/512x384.jpg",
+    "genre": "Arcade",
+    "newest": true
+  },
+  {
+    "title": "My HotPot Store",
+    "url": "https://html5.gamemonetize.co/bwnwd62dlichf80m9w10rhjkzr9riwl3/",
+    "icon": "https://img.gamemonetize.com/bwnwd62dlichf80m9w10rhjkzr9riwl3/512x384.jpg",
+    "genre": "Hypercasual",
     "newest": true
   },
   {
@@ -42809,34 +42837,6 @@
     "url": "https://html5.gamemonetize.co/qonrxxtprdpm1s2fwu5g3nkftrepjkdo/",
     "icon": "https://img.gamemonetize.com/qonrxxtprdpm1s2fwu5g3nkftrepjkdo/512x384.jpg",
     "genre": "Shooting",
-    "newest": true
-  },
-  {
-    "title": "Halloween Theet",
-    "url": "https://html5.gamemonetize.co/g7cmii0dc26kv9i9id7v6wrih72p3al9/",
-    "icon": "https://img.gamemonetize.com/g7cmii0dc26kv9i9id7v6wrih72p3al9/512x384.jpg",
-    "genre": "Hypercasual",
-    "newest": true
-  },
-  {
-    "title": "Halloween Zombie Cannon",
-    "url": "https://html5.gamemonetize.co/mwbuw38d15yg9rswqzk3u9mnd8irm129/",
-    "icon": "https://img.gamemonetize.com/mwbuw38d15yg9rswqzk3u9mnd8irm129/512x384.jpg",
-    "genre": "Shooting",
-    "newest": true
-  },
-  {
-    "title": " Kitchen Sorting",
-    "url": "https://html5.gamemonetize.co/qt9jxy4clkxrv1zharuv23dr2vl4ohhe/",
-    "icon": "https://img.gamemonetize.com/qt9jxy4clkxrv1zharuv23dr2vl4ohhe/512x384.jpg",
-    "genre": "Puzzles",
-    "newest": true
-  },
-  {
-    "title": "Baby Pandas Juice Maker",
-    "url": "https://html5.gamemonetize.co/2yli3z70eg9svayi4273imn3dh7b0yr7/",
-    "icon": "https://img.gamemonetize.com/2yli3z70eg9svayi4273imn3dh7b0yr7/512x384.jpg",
-    "genre": "Hypercasual",
     "newest": true
   },
   {
@@ -117162,6 +117162,13 @@
     "title": "Super Zombie Shooter",
     "url": "https://html5.gamemonetize.co/agrrgb6ibm88hhvw2b9qu8sgb1ome9pm/",
     "icon": "https://img.gamemonetize.com/agrrgb6ibm88hhvw2b9qu8sgb1ome9pm/512x384.jpg",
+    "genre": "Shooting",
+    "newest": true
+  },
+  {
+    "title": "Halloween Zombie Cannon",
+    "url": "https://html5.gamemonetize.co/mwbuw38d15yg9rswqzk3u9mnd8irm129/",
+    "icon": "https://img.gamemonetize.com/mwbuw38d15yg9rswqzk3u9mnd8irm129/512x384.jpg",
     "genre": "Shooting",
     "newest": true
   },
